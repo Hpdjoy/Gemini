@@ -64,6 +64,10 @@ This template supports two official plugins for Fast Refresh:
 
 You can choose the plugin that best suits your needs.
 
+## Deployed Application
+
+The project is deployed and can be accessed at: [https://react-learings.onrender.com/](https://react-learings.onrender.com/)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

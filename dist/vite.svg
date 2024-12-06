@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="32" height="32" viewBox="0 0 64 64">
+  <g fill="none" stroke="black" stroke-width="4" stroke-miterlimit="10">
+    <!-- Vertical lines -->
+    <line x1="18" y1="12" x2="18" y2="52" />
+    <line x1="46" y1="12" x2="46" y2="52" />
+    <!-- Curved top line -->
+    <path d="M18,12 C24,6 40,6 46,12" />
+    <!-- Curved bottom line -->
+    <path d="M18,52 C24,58 40,58 46,52" />
+  </g>
+</svg>
